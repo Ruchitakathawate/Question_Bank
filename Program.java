@@ -1,4 +1,4 @@
-//package com.pkg;
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -83,7 +83,7 @@ public class Program {
 		list.add(new QuestionBank(4, "In which orientation, a dipole placed in a uniform electric field is in unstable equilibrium ?", "2014, 2018, 2020", "Electric dipole"));
 		list.add(new QuestionBank(5, "Why should electrostatic field be zero inside a conductor?", "2012, 2019", "Electrostatic field"));
 		list.add(new QuestionBank(6, "Why must electrostatic field be normal to the surface at every point of a charged conductor?", "2012, 2018, 2021", "Electrostatic field"));
-		list.add(new QuestionBank(7, "A charge ‘q’ is placed at the centre of a cube of side l. What is the electric flux passing through each face of the cube? (All India 2012)", "2015, 2020", "Electric flux"));
+		list.add(new QuestionBank(7, "A charge â€˜qâ€™ is placed at the centre of a cube of side l. What is the electric flux passing through each face of the cube? (All India 2012)", "2015, 2020", "Electric flux"));
 		list.add(new QuestionBank(8, "Depict the direction of the magnetic field lines due to a circular current carrying loop.", "2012, 2022", "Magnetic field"));
 		list.add(new QuestionBank(9, "Why do the electric field lines not form closed loops?", "2013, 2015, 2020", "Electrostatic field"));
 		list.add(new QuestionBank(10, "Is the electric field due to a charge configuration with total charge zero, necessarily zero? ", "2019, 2021", "Electrostatic field"));			
